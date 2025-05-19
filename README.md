@@ -21,3 +21,4 @@ Script đào vàng cho FiveM (QBCore)
 - `qb-target`
 - `qb-inventory`
 @Development N9 Support 24/7
+Discord : https://discord.gg/k9e7qny6
