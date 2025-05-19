@@ -10,7 +10,7 @@ Script đào vàng cho FiveM (QBCore)
 - Hệ thống độ bền cho dụng cụ đãi vàng
 
 ## Cài đặt
-1. Copy thư mục `n9_Goldplant` vào `resources/[local]/`
+1. Copy thư mục `n9_Goldplant` vào `resources`
 2. Thêm vào `server.cfg`:
    ```
    ensure n9_Goldplant
@@ -20,3 +20,4 @@ Script đào vàng cho FiveM (QBCore)
 - `qb-core`
 - `qb-target`
 - `qb-inventory`
+@Development N9 Support 24/7
