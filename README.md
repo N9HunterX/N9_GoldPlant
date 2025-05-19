@@ -22,3 +22,4 @@ Script đào vàng cho FiveM (QBCore)
 - `qb-inventory`
 @Development N9 Support 24/7
 Discord : https://discord.gg/k9e7qny6
+File Missing Join my discord i sent code 🤟
