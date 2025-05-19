@@ -1,2 +1,22 @@
-# N9_GoldPlant
-Script FiveM Qbcore
+# n9_Goldplant
+
+Script đào vàng cho FiveM (QBCore)
+
+## Tính năng
+- Tương tác NPC bằng `qb-target`
+- Đào vàng bằng animation + đạo cụ
+- Nấu quặng vàng thành thỏi
+- Bán thỏi vàng để nhận tiền
+- Hệ thống độ bền cho dụng cụ đãi vàng
+
+## Cài đặt
+1. Copy thư mục `n9_Goldplant` vào `resources/[local]/`
+2. Thêm vào `server.cfg`:
+   ```
+   ensure n9_Goldplant
+   ```
+
+## Dependencies
+- `qb-core`
+- `qb-target`
+- `qb-inventory`

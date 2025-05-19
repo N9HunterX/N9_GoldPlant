@@ -1,0 +1,32 @@
+body {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.mining-ui {
+    background: #222;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.mining-ui img {
+    width: 150px;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.notify {
+    position: absolute;
+    bottom: 30px;
+    background: gold;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: none;
+}
